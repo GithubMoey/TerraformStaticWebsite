@@ -1,0 +1,1 @@
+Starter project using Terraform to create a static website using AWS.
